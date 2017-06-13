@@ -4,7 +4,7 @@
 
 DE=mate
 DIRECTORY=/home/$USER/Github/Mate-Artwork/
-ABSPATH=/usr/share/backgrounds/
+ABSPATH=/usr/share/backgrounds/manjaro-$DE/
 
 clear
 echo "#################################"
