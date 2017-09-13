@@ -42,6 +42,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
 <wallpaper>
+<name>/usr/share/backgrounds/manjaro-mate/manjaro-mate.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-mate/manjaro-mate.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
 <name>/usr/share/backgrounds/manjaro-mate/manjaro_stripes_wallpaper_1920x1200px.jpg</name>
 <filename>/usr/share/backgrounds/manjaro-mate/manjaro_stripes_wallpaper_1920x1200px.jpg</filename>
   <options>stretched</options>
@@ -60,6 +68,14 @@
 <wallpaper>
 <name>/usr/share/backgrounds/manjaro-mate/manjaro_wallpaper.jpg</name>
 <filename>/usr/share/backgrounds/manjaro-mate/manjaro_wallpaper.jpg</filename>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+<wallpaper>
+<name>/usr/share/backgrounds/manjaro-mate/manj-mate.jpg</name>
+<filename>/usr/share/backgrounds/manjaro-mate/manj-mate.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
