@@ -1,6 +1,5 @@
 #!/usr/bin/make -f
 
-THEME      =    Manjaro Mate Wallpapers
 DTHEME     =	manjaro-mate
 PREFIX     = 	/usr
 DPATH 	   =	$(DESTDIR)$(PREFIX)/share/backgrounds/$(DTHEME)
@@ -11,10 +10,10 @@ INSTD 	   =	install -Dm644 -t
 install:
 	./backgrounds-xml.sh
 	mkdir -p $(DXMLMATE)
-	cp -f $(THEME).xml $(DXMLMATE)
+	cp -f $(DTHEME).xml $(DXMLMATE)
 	$(INSTD) $(DPATH) *.jpg 
 	
 uninstall:
 	$(DEL) $(DPATH)
-	rm -f $(DXMLMATE)/$(THEME).xml
+	rm -f $(DXMLMATE)/$(DTHEME).xml
  
